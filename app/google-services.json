@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "222670300501",
+    "firebase_url": "https://dame-management-default-rtdb.firebaseio.com",
+    "project_id": "dame-management",
+    "storage_bucket": "dame-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222670300501:android:1e42c2935f35b8dc82bbdc",
+        "android_client_info": {
+          "package_name": "com.floodalert.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKM6pw9_3HbJN_ggQEbVhVkNcyFz2hCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
